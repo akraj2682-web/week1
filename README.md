@@ -78,7 +78,7 @@ week1
 
 ## Screenshot of Working Application
 
-![alt text](C:\Users\Anubhav Kumar\Desktop\python\intern\week1)
+![alt text](<Screenshot 2026-03-13 133322.png>)
 
 <img src="screenshot.png" width="700">
 
@@ -125,4 +125,5 @@ This project meets all the required technical specifications:
 ## Author
 
 Anubhav Kumar
+
 
